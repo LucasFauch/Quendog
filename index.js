@@ -11,7 +11,7 @@ client.on('message', async message => {
     else{
         if(message.member.roles.cache.some(role => role.name == 'SALE CHIEN' && Math.random()>0.9)){
             if(Math.random()>0.99){
-                message.reply("Waf ! :dog: https://tenor.com/view/scary-angry-pissed-mad-bro-gif-10066144"
+                message.reply("Waf ! :dog: https://tenor.com/view/scary-angry-pissed-mad-bro-gif-10066144");
             } else{
                 message.reply("Waf ! :dog:");
             }

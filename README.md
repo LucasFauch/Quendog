@@ -1,1 +1,0 @@
-C'est le bot qui imite Quenchien lol
